@@ -4,7 +4,7 @@ import random
 
 
 secret_number = random.randint(1, 100)
-#  random.randint means selection of whole number(integers)
+
 attempts = 0
 guess = None
 
